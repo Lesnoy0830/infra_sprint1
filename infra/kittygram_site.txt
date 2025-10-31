@@ -1,5 +1,5 @@
- IP: 89.169.160.151;
- name_taski: полная ссылка (https://доменное_имя) на ваш проект Taski;
- name_kittygram: полная ссылка (https://testim.ddns.net/signup) на ваш проект Kittygram;
- login: lesnoy;
- password: lesnoy0830;
+IP: 89.169.160.151;
+name_taski: полная ссылка (https://доменное_имя) на ваш проект Taski;
+name_kittygram: полная ссылка (https://testim.ddns.net/signup) на ваш проект Kittygram;
+login: lesnoy;
+password: lesnoy0830;
